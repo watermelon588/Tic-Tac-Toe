@@ -20,11 +20,13 @@ Number Pad Layout for board positions:
 markdown
 Copy
 Edit
+
  7 | 8 | 9
 -----------
  4 | 5 | 6
 -----------
  1 | 2 | 3
+
 🛠️ Requirements
 Python 3.x
 
@@ -80,11 +82,11 @@ Player 1: Choose (X or O): X
 Player 1 goes first!
 Are you READY to play? (y/n) y
 
- X |   |  
+ X | - | -
 -----------
-   |   |  
+ - | - | -
 -----------
-   |   |  
+ - | - | -
 
 Choose a position (1-9): 5
 ...
